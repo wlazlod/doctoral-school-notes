@@ -737,9 +737,7 @@ Niech funkcja użyteczności $u(\mathbf{x})$ reprezentuje dowolne monotoniczne p
 
 ### Rozwiązanie
 
-Oczywiście, oto rozwiązanie zadania wraz z uzasadnieniem dla każdego podpunktu.
-
-### Podstawa Teoretyczna
+#### Podstawa Teoretyczna
 
 Zgodnie z teorią wyboru konsumenta, funkcja $f(\mathbf{x})$ reprezentuje te same preferencje co funkcja użyteczności $u(\mathbf{x})$ wtedy i tylko wtedy, gdy $f(\mathbf{x})$ jest **dodatnią transformacją monotoniczną** funkcji $u(\mathbf{x})$.
 
@@ -836,7 +834,7 @@ Wyznacz funkcję popytu Marshalla.
 
 ### Rozwiązanie
 
-Jasne, oto rozwiązanie zadania. Ten przypadek jest szczególnym przykładem dóbr doskonale substytucyjnych, gdzie jedno z dóbr nie przynosi żadnej użyteczności.
+Ten przypadek jest szczególnym przykładem dóbr doskonale substytucyjnych, gdzie jedno z dóbr nie przynosi żadnej użyteczności.
 
 #### 1\. Analiza Funkcji Użyteczności i Preferencji
 
